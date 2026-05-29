@@ -129,7 +129,7 @@ export const content = {
           tags: ['Python', 'Grafana', 'ML', 'Observability'],
           highlights: [
             'Architected & shipped an AI-powered observability platform from scratch in 6 weeks that auto-generates Grafana alert rules from service metadata — eliminating manual rule creation across 200+ microservices.',
-            'Improved alert accuracy from 65% → 92% and cut alert fatigue by 60% via ML-assisted signal tuning on MoMo’s Cursor-based AI coding framework.',
+            'Improved alert accuracy from 65% → 92% and cut alert fatigue by 60% via ML-assisted signal tuning on MoMo's Cursor-based AI coding framework.',
           ],
         },
         {
@@ -160,12 +160,12 @@ export const content = {
       schools: [
         {
           degree: 'M.S. Computer Science — Specialization in Artificial Intelligence',
-          school: 'Ho Chi Minh City University of Science',
+          school: 'Saigon International University',
           period: 'Jun 2025 – Mar 2027',
         },
         {
           degree: 'B.Eng. Electronics & Telecommunications',
-          school: 'Saigon International University',
+          school: 'Ho Chi Minh City University of Science',
           period: 'Jan 2018 – Dec 2022',
         },
       ],
@@ -360,12 +360,12 @@ export const content = {
       schools: [
         {
           degree: 'Thạc sĩ Khoa học Máy tính — Chuyên ngành Trí tuệ Nhân tạo',
-          school: 'Đại học Khoa học Tự nhiên TP.HCM',
+          school: 'Đại học Quốc tế Sài Gòn',
           period: 'T6 2025 – T3 2027',
         },
         {
           degree: 'Kỹ sư Điện tử & Viễn thông',
-          school: 'Đại học Quốc tế Sài Gòn',
+          school: 'Đại học Khoa học Tự nhiên TP.HCM',
           period: 'T1 2018 – T12 2022',
         },
       ],
