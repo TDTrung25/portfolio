@@ -129,7 +129,7 @@ export const content = {
           tags: ['Python', 'Grafana', 'ML', 'Observability'],
           highlights: [
             'Architected & shipped an AI-powered observability platform from scratch in 6 weeks that auto-generates Grafana alert rules from service metadata — eliminating manual rule creation across 200+ microservices.',
-            'Improved alert accuracy from 65% → 92% and cut alert fatigue by 60% via ML-assisted signal tuning on MoMo's Cursor-based AI coding framework.',
+            'Improved alert accuracy from 65% → 92% and cut alert fatigue by 60% via ML-assisted signal tuning on MoMo’s Cursor-based AI coding framework.',
           ],
         },
         {
